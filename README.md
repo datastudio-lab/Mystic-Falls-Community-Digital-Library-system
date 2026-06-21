@@ -8,9 +8,8 @@ This project demonstrates database design and SQL querying skills using an ERD a
 To design a relational database and perform data retrieval and analysis using SQL.       
 
 ## Files Included 
-- `queries.sql` – Contains SQL queries for data analysis
-- `ERD_digitallibrarysystem.pdf` – Entity Relationship Diagram of the database design
-- `schema.sql` (optional) – Database table creation script
+- `LibraryDatabase_Sql Script.sql` – SQL script containing table creation, data insertion, and sample queries used to test and analyze the database
+- `ERD_digitallibrarysystem.pdf` – Entity Relationship Diagram (ERD) illustrating the database structure, entities, attributes, and relationships
 
 ## Database Design
 The database was designed using normalization principles and includes relationships between multiple entities.
