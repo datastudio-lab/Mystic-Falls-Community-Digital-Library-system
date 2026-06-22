@@ -10,6 +10,8 @@ To design a relational database and perform data retrieval and analysis using SQ
 ## Files Included 
 - `LibraryDatabase_Sql Script.sql` – SQL script containing table creation, data insertion, and sample queries used to test and analyze the database
 - `ERD_digitallibrarysystem.pdf` – Entity Relationship Diagram (ERD) illustrating the database structure, entities, attributes, and relationships
+- `RelationalModel.pdf` - Relational schema showing tables, attributes, primary keys, and foreign key relationships
+- `DatabaseProjDocumentaion.pdf` - Project documentation including scope, business process, data requirements, entities, relationships, and database design decisions
 
 ## Database Design
 The database was designed using normalization principles and includes relationships between multiple entities.
